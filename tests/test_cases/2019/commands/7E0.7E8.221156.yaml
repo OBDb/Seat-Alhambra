@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.221156
+test_cases:
+- response: '7E80762115600060400'
+  expected_values:
+    SEAT_HVBAT_SOC: 0
+- response: '7E80762115600060564'
+  expected_values:
+    SEAT_HVBAT_SOC: 0
+- response: 7E80762115600060B53
+  expected_values:
+    SEAT_HVBAT_SOC: 0
