@@ -9,3 +9,9 @@ test_cases:
 - response: 7E8056211BE0BB1
   expected_values:
     SEAT_EOT: 2993
+- response: 7E8056211BE0E71
+  expected_values:
+    SEAT_EOT: 3697
+- response: 7E8056211BE0E75
+  expected_values:
+    SEAT_EOT: 3701

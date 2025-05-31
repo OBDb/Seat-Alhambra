@@ -9,3 +9,9 @@ test_cases:
 - response: 7E80562F41F016D
   expected_values:
     SEAT_RUNTM: 365
+- response: 7E80562F41F048F
+  expected_values:
+    SEAT_RUNTM: 1167
+- response: 7E80562F41F04B6
+  expected_values:
+    SEAT_RUNTM: 1206
