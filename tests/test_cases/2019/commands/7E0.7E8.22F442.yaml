@@ -1,5 +1,8 @@
 command_id: 7E0.7E8.22F442
 test_cases:
+- response: 7E80562F44232F0
+  expected_values:
+    SEAT_VPWR: 13.04
 - response: 7E80562F4423A84
   expected_values:
     SEAT_VPWR: 14.98
