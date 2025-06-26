@@ -1,17 +1,11 @@
 command_id: 7E0.7E8.2211BE
 test_cases:
-- response: 7E8056211BE0B15
-  expected_values:
+- expected_values:
     SEAT_EOT: 2837
-- response: 7E8056211BE0B23
-  expected_values:
-    SEAT_EOT: 2851
-- response: 7E8056211BE0BB1
-  expected_values:
-    SEAT_EOT: 2993
-- response: 7E8056211BE0E71
-  expected_values:
-    SEAT_EOT: 3697
-- response: 7E8056211BE0E75
-  expected_values:
-    SEAT_EOT: 3701
+  response: 7E8056211BE0B15
+- expected_values:
+    SEAT_EOT: 3791
+  response: 7E8056211BE0ECF
+- expected_values:
+    SEAT_EOT: 3860
+  response: 7E8056211BE0F14

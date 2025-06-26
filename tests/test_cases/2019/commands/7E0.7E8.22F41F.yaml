@@ -1,17 +1,14 @@
 command_id: 7E0.7E8.22F41F
 test_cases:
-- response: 7E80562F41F004C
-  expected_values:
-    SEAT_RUNTM: 76
-- response: 7E80562F41F0072
-  expected_values:
-    SEAT_RUNTM: 114
-- response: 7E80562F41F016D
-  expected_values:
-    SEAT_RUNTM: 365
-- response: 7E80562F41F048F
-  expected_values:
-    SEAT_RUNTM: 1167
-- response: 7E80562F41F04B6
-  expected_values:
-    SEAT_RUNTM: 1206
+- expected_values:
+    SEAT_RUNTM: 70
+  response: 7E80562F41F0046
+- expected_values:
+    SEAT_RUNTM: 1792
+  response: 7E80562F41F0700
+- expected_values:
+    SEAT_RUNTM: 5587
+  response: 7E80562F41F15D3
+- expected_values:
+    SEAT_RUNTM: 5628
+  response: 7E80562F41F15FC
