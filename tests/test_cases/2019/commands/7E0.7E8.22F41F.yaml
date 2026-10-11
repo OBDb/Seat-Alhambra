@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.22F41F
 test_cases:
 - expected_values:
-    SEAT_RUNTM: 70
+    ALHAMBRA_RUNTM: 70
   response: 7E80562F41F0046
 - expected_values:
-    SEAT_RUNTM: 1792
+    ALHAMBRA_RUNTM: 1792
   response: 7E80562F41F0700
 - expected_values:
-    SEAT_RUNTM: 5587
+    ALHAMBRA_RUNTM: 5587
   response: 7E80562F41F15D3
 - expected_values:
-    SEAT_RUNTM: 5628
+    ALHAMBRA_RUNTM: 5628
   response: 7E80562F41F15FC

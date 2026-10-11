@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.22F40D
 test_cases:
 - expected_values:
-    SEAT_VSS: 13
+    ALHAMBRA_VSS: 13
   response: 7E80462F40D0D
 - expected_values:
-    SEAT_VSS: 91
+    ALHAMBRA_VSS: 91
   response: 7E80462F40D5B

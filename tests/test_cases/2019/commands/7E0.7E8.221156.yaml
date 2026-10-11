@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.221156
 test_cases:
 - expected_values:
-    SEAT_HVBAT_SOC: 0
+    ALHAMBRA_PQ35_DIST_LAST_REGEN: 4.902
   response: '7E80762115600001326'
 - expected_values:
-    SEAT_HVBAT_SOC: 0
+    ALHAMBRA_PQ35_DIST_LAST_REGEN: 63.743
   response: 7E8076211560000F8FF
 - expected_values:
-    SEAT_HVBAT_SOC: 0
+    ALHAMBRA_PQ35_DIST_LAST_REGEN: 64.535
   response: 7E8076211560000FC17
 - expected_values:
-    SEAT_HVBAT_SOC: 0
+    ALHAMBRA_PQ35_DIST_LAST_REGEN: 394.24
   response: '7E80762115600060400'

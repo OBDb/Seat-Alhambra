@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.2211BE
 test_cases:
 - expected_values:
-    SEAT_EOT: 2837
+    ALHAMBRA_PQ35_OIL_T_2: 10.6
   response: 7E8056211BE0B15
 - expected_values:
-    SEAT_EOT: 3791
+    ALHAMBRA_PQ35_OIL_T_2: 106
   response: 7E8056211BE0ECF
 - expected_values:
-    SEAT_EOT: 3860
+    ALHAMBRA_PQ35_OIL_T_2: 112.9
   response: 7E8056211BE0F14
